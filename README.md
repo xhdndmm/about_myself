@@ -1,5 +1,5 @@
 # 关于我
-![](https://xhdndmm.net/data/logo.jpg)
+![](https://xhdndmm.net/img/logo.jpg)
 > 前言  
 这是关于“喜欢电脑的猫咪”的自我介绍，因为想让他人更好且更方便的了解我，所以写了以下内容。  
 可能有些内容存在一些错误或者不合理，请谅解。
